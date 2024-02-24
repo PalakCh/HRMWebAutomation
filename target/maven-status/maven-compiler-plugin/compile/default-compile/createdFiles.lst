@@ -1,0 +1,5 @@
+DerivWebAutomationProject\PageObjects\OrangeHrmLogInPage.class
+DerivWebAutomationProject\PageObjects\OrangeHrmAdminPanelPage.class
+DerivWebAutomationProject\resources\extentreporterNG.class
+DerivWebAutomationProject\AbstractComponents\AbstractComponents.class
+DerivWebAutomationProject\PageObjects\OrangeHrmMyInfoPage.class

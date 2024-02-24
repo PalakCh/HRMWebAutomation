@@ -1,0 +1,5 @@
+DerivWebAutomationProject\testcomponents\Listeners.class
+DerivWebAutomationProject\tests\TestMyInfoFunctionality.class
+DerivWebAutomationProject\tests\TestLogInFunctionality.class
+DerivWebAutomationProject\tests\TestLogOutFunctionality.class
+DerivWebAutomationProject\testcomponents\baseTest.class
